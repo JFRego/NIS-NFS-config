@@ -15,7 +15,7 @@
         
 - now create your users home directory and run the following comand to export it;
 
-        mkdir /var/homes
+        mkdir /mnt/raid5
 
         exportfs -a
         
